@@ -1,0 +1,78 @@
+baseURL: 'https://halon.cc/'
+languageCode: it
+title: halon
+theme: hugo-papermod
+
+googleAnalytics: UA-188035113-1
+
+
+enableInlineShortcodes: true
+enableRobotsTXT: true
+enableEmoji: true
+
+outputs:
+    home:
+        - HTML
+        - RSS
+        - JSON
+
+assets:
+         favicon: "favicon.ico"
+
+
+menu:
+  main:
+    - identifier: categories
+      name: categories
+      url: /categories/
+      weight: 10
+
+    - identifier: aznalubma
+      name: aznalubma
+      url: 'https://halon.cc/categories/aznalubma/'
+      weight: 15
+
+    - identifier: archivio
+      name: archivio
+      url: /archive/
+      weight: 20
+
+      
+
+
+params:
+  profileMode:
+    enabled: true
+    title: "halon's site" # optional default will be site title
+    subtitle: "Bentenut* a tutt* nel mio piccolo mondo"
+    imageUrl: "profpic.jpg"
+    imageTitle: "<title of image as alt>"
+    imageWidth: 120
+    imageHeight: 120
+    buttons:
+      - name: blog
+        url: "/posts"
+      - name: chi sono
+        url: "/chi-sono"
+      - name: Diario di un runner
+        url: "/diario-di-un-runner"
+      - name: Leggo cose
+        url: "/libreria"
+  socialIcons:
+    - name: instagram
+      url: "https://www.instagram.com/halon176/"
+    - name: telegram
+      url: "https://t.me/halon176"
+    - name: youtube
+      url: "https://www.youtube.com/channel/UCejuBRsBy7k_hKfkO8VTPfg"
+    - name: email
+      url: "mailto:hello@halon.cc"
+    - name: rss
+      url: index.xml
+    
+
+
+  env: production
+  ShowReadingTime: true
+  comments: true
+  ShowShareButtons: true
