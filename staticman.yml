@@ -60,7 +60,7 @@ comments:
 
 posts:
   allowedFields: ["title", "body"]
-  allowedOrigins: ["localhost", "hugo.staticman.net"]
+  allowedOrigins: ["localhost", "hugo.staticman.net","halon.cc"]
   branch: "master"
   generatedFields:
     date:
