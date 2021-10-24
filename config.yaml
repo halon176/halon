@@ -63,6 +63,8 @@ params:
       url: "https://www.instagram.com/halon176/"
     - name: telegram
       url: "https://t.me/halon176"
+    - name: twitter
+      url: "https://twitter.com/halon_by"
     - name: youtube
       url: "https://www.youtube.com/channel/UCejuBRsBy7k_hKfkO8VTPfg"
     - name: email
