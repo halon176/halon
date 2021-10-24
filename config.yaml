@@ -67,6 +67,8 @@ params:
       url: "https://www.youtube.com/channel/UCejuBRsBy7k_hKfkO8VTPfg"
     - name: email
       url: "mailto:hello@halon.cc"
+    - name: github
+      url: "https://github.com/halon176"
     - name: discord
       url: "https://discordapp.com/users/199192913064886272"
     - name: lastfm
