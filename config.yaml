@@ -1,7 +1,7 @@
 baseURL: 'https://halon.cc/'
 languageCode: it
 title: halon
-theme: hugo-papermod
+theme: PaperMod
 
 googleAnalytics: UA-188035113-1
 
@@ -77,8 +77,8 @@ params:
       url: "https://www.last.fm/user/halon176"
     - name: rss
       url: index.xml
-    
-
+  domain: "halon.cc"
+  remark42Url: "https://remark42.halon.cc"
 
   env: production
   ShowReadingTime: true
