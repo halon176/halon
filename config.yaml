@@ -1,9 +1,12 @@
 baseURL: 'https://halon.cc/'
 languageCode: it
+DefaultContentLanguage: it
 title: halon
 theme: PaperMod
 
 googleAnalytics: UA-188035113-1
+
+copyright: Everything is mine
 
 
 enableInlineShortcodes: true
@@ -84,3 +87,4 @@ params:
   ShowReadingTime: true
   comments: true
   ShowShareButtons: true
+  author: halon

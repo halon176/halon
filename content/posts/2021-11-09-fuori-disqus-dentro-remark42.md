@@ -7,11 +7,8 @@ cover:
     alt: "<alt text>"
     caption: ""
     relative: false # To use relative path for cover image, used in hugo Page-bundles
-params:
-    ShowShareButtons: true
 
 categories: ["blog"]
-
 ---
 Se c'è una cosa che ho sempre voluto avere sono i commenti sul blog. Pur andando contro la filosofia minimale, a parer mio è necessario per dare quel minimo di interazione fra chi crea i contenuti e chi legge, oltre a dare la possibilità agli utenti di interagire fra loro e fare domande.
 
