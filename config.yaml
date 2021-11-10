@@ -32,6 +32,16 @@ languages:
         languageName: ":en:"
         languageAltTitle: English
         weight: 2
+        menu:
+            main:
+                - identifier: categories
+                  name: categories
+                  url: /categories/
+                  weight: 10
+                - identifier: archive
+                  name: archive
+                  url: /archive/
+                  weight: 20
         title: halon English
         profileMode:
             enabled: true
