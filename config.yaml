@@ -42,7 +42,7 @@ languages:
                   name: archive
                   url: /archive/
                   weight: 20
-        title: halon English
+        title: halon En
         profileMode:
             enabled: true
             title: halon's blog

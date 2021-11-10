@@ -8,19 +8,20 @@ cover:
     caption: ""
     relative: false # To use relative path for cover image, used in hugo Page-bundles
 
+translationKey: fromdisqustoremark
 categories: ["blog"]
 ---
 Se c'è una cosa che ho sempre voluto avere sono i commenti sul blog. Pur andando contro la filosofia minimale, a parer mio è necessario per dare quel minimo di interazione fra chi crea i contenuti e chi legge, oltre a dare la possibilità agli utenti di interagire fra loro e fare domande.
 
 ### Staticman
 
-La mia prima scelta è ricaduta su [staticman](https://staticman.net/), la più famosa delle soluzione nell'ambito. In sintesi il software crea un form sul sito e quando l'utente commenta, crea una pull request su una repository git per memorizzarlo, al che il sito viene rigenerato includendo il commento in questione. Questo sistema già astruso di per se mi creava non pochi problemi, in primis il blog è generato in locale da me e poi sincronizzato con rsync sul server, per far funzionare staticman avrei dovuto creare un processo che controlli periodicamente la presenza di nuovi commenti e rigeneri ogni volta ne sia presente uno, cosa che non mi faceva impazzire. Poi c'è il problema della modifica, pare che l'utente non sia in grado di modificare i commenti creati.
+La mia prima scelta è ricaduta su [staticman](https://staticman.net/), la più famosa delle soluzione nell'ambito. In sintesi, il software crea un form sul sito e quando l'utente commenta, crea una pull request su una repository git per memorizzarlo, al che il sito viene rigenerato includendo il commento in questione. Questo sistema già astruso di per se mi creava non pochi problemi, in primis il blog è generato in locale da me e poi sincronizzato con rsync sul server, per far funzionare staticman avrei dovuto creare un processo che controlli periodicamente la presenza di nuovi commenti e rigeneri ogni volta ne sia presente uno, cosa che non mi faceva impazzire. Poi c'è il problema della modifica, pare che l'utente non sia in grado di modificare i commenti creati.
 
 Ad ogni modo ho provato ad impostare tutta la macchina ma francamente era una montagna di problemi tecnici sopratutto per l'accesso del server al git, quindi ho dovuto trovare una soluzione alternativa.
 
 ### Disqus
 
-Conoscevo disqus dai tempi di wordpress, già in principio non mi piaceva perché traccia molto gli utenti e la sua presenza in un sito minimale era come il dito nell'occhio, era però un compromesso necessario. Ho fatto pure una piccola [guida per integrare Disqus in Hugo](/posts/2021-09-10-impostare-disqus-su-hugo). Fatto pace con la mia coscienza lasciai Disqus ed andai avanti.
+Conoscevo disqus dai tempi di wordpress, già in principio non mi piaceva perché traccia molto gli utenti e la sua presenza in un sito minimale era come il dito nell'occhio, era però un compromesso necessario. Ho fatto pure una piccola [guida per integrare Disqus in Hugo](/posts/2021-09-10-impostare-disqus-su-hugo). Fatto pace con la mia coscienza, lasciai Disqus ed andai avanti.
 
 Diverso tempo dopo, quasi per caso ho scoperto ho che disqus, in browser senza adblocker (quindi per esempio tutti i browser interni ad app che aprono articoli, es. quello di instagram o facebook), crea un muro di ad incredibile, almeno 6 ad che fanno sembrare il blog una cialtronata incredibile. Articoli come "Dimagrire con la dieta ad aloe puro" e cose di questo tipo, quindi ne andava della reputazione del blog, cosi ho deciso di rimuovere il tutto in attesa di una soluzione.
 
