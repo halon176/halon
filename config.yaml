@@ -13,6 +13,41 @@ enableInlineShortcodes: true
 enableRobotsTXT: true
 enableEmoji: true
 
+languages:
+    it:
+        languageName: "Italiano"
+        weight: 1
+        menu:
+            main:
+                - identifier: categories
+                  name: categories
+                  url: /categories/
+                  weight: 10
+                - identifier: archivio
+                  name: archivio
+                  url: /archive/
+                  weight: 20
+
+    en:
+        languageName: ":en:"
+        languageAltTitle: English
+        weight: 2
+        title: halon English
+        profileMode:
+            enabled: true
+            title: halon's blog
+            imageUrl: "../profpic.jpg"
+            # imageTitle: my image
+            imageWidth: 120
+            imageHeight: 120
+            subtitle: "Welcome to everyone in my little world"
+            buttons:
+              - name: blog
+                url: "posts"
+              - name: "about me"
+                url: "about-me"
+
+
 outputs:
     home:
         - HTML
@@ -21,26 +56,6 @@ outputs:
 
 assets:
          favicon: "favicon.ico"
-
-
-menu:
-  main:
-    - identifier: categories
-      name: categories
-      url: /categories/
-      weight: 10
-
-    - identifier: aznalubma
-      name: aznalubma
-      url: 'https://halon.cc/categories/aznalubma/'
-      weight: 15
-
-    - identifier: archivio
-      name: archivio
-      url: /archive/
-      weight: 20
-
-      
 
 
 params:
@@ -54,13 +69,13 @@ params:
     imageHeight: 120
     buttons:
       - name: blog
-        url: "/posts"
+        url: "posts"
       - name: chi sono
-        url: "/chi-sono"
+        url: "chi-sono"
       - name: Diario di un runner
-        url: "/diario-di-un-runner"
+        url: "diario-di-un-runner"
       - name: Leggo cose
-        url: "/libreria"
+        url: "libreria"
   socialIcons:
     - name: instagram
       url: "https://www.instagram.com/halon176/"

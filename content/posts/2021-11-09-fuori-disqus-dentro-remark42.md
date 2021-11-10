@@ -22,7 +22,7 @@ Ad ogni modo ho provato ad impostare tutta la macchina ma francamente era una mo
 
 Conoscevo disqus dai tempi di wordpress, già in principio non mi piaceva perché traccia molto gli utenti e la sua presenza in un sito minimale era come il dito nell'occhio, era però un compromesso necessario. Ho fatto pure una piccola [guida per integrare Disqus in Hugo](/posts/2021-09-10-impostare-disqus-su-hugo). Fatto pace con la mia coscienza lasciai Disqus ed andai avanti.
 
-Diverso tempo dopo, quasi per caso ho scoperto ho che disqus, in browser senza adblocker (quindi per esempio tutti i browser interni ad app che aprono articoli, es. quello di instagram o facebook), crea un muro di add incredibile, almeno 6 add che fanno sembrare il blog una cialtronata incredibile. Articoli come "Dimagrire con la dieta ad aloe puro" e cose di questo tipo, quindi ne andava della reputazione del blog, cosi ho deciso di rimuovere il tutto in attesa di una soluzione.
+Diverso tempo dopo, quasi per caso ho scoperto ho che disqus, in browser senza adblocker (quindi per esempio tutti i browser interni ad app che aprono articoli, es. quello di instagram o facebook), crea un muro di ad incredibile, almeno 6 ad che fanno sembrare il blog una cialtronata incredibile. Articoli come "Dimagrire con la dieta ad aloe puro" e cose di questo tipo, quindi ne andava della reputazione del blog, cosi ho deciso di rimuovere il tutto in attesa di una soluzione.
 
 ### Habemus remark42
 
@@ -32,4 +32,4 @@ Il setup non è banale ma molto ben documentato e qualche madonna di troppo più
 
 ### Il risultato
 
-Finalmente ho un blog statico con commenti che pur non essendo statici sono comunque custoditi e gestiti localmente, senza bisogno di piattaforme terze che inondino tutto di add.
+Finalmente ho un blog statico con commenti che pur non essendo statici sono comunque custoditi e gestiti localmente, senza bisogno di piattaforme terze che inondino tutto di ad.
