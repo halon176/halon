@@ -10,7 +10,7 @@ params:
     ShowShareButtons: true
 
 
-categories: ["tutorial"]
+categories: ["tutorial","tech"]
 ---
 
 ## Dio perdonami perché ho peccato.

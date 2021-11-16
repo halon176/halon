@@ -9,7 +9,7 @@ cover:
     relative: false # To use relative path for cover image, used in hugo Page-bundles
 
 translationKey: fromdisqustoremark
-categories: ["blog"]
+categories: ["blog","tech"]
 ---
 There's one thing I've always wanted to have: blog comments. Even if it goes against minimalism, in my opinion it is necessary to give that minimum of interaction between those who create the contents and the reader, as well as give users the possibility to interact with each other and ask questions.
 

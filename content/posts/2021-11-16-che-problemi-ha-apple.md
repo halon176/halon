@@ -9,7 +9,7 @@ cover:
     relative: false # To use relative path for cover image, used in hugo Page-bundles
 
 translationKey: cheproblemihaapple
-categories: ["blog"]
+categories: ["blog","tech"]
 ---
 
 "Gli iPhone sono più semplici da usare, non riuscirei mai ad usare un android", frase che ho sentito fino alla nausea ma talmente diffusa da convincermi fosse veramente così. Qualche giorno fa sono diventato un fiero possessore di un iPhone 12 Pro, è stato un momento di giubilo destinato a durare poco, il tempo di cominciare la travagliata migrazione dal mio caro vecchio Samsung S10.
