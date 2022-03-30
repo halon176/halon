@@ -82,8 +82,8 @@ params:
         url: "posts"
       - name: chi sono
         url: "chi-sono"
-      - name: Diario di un runner
-        url: "diario-di-un-runner"
+      - name: Da 0 a Maratona
+        url: "da-0-a-maratona"
       - name: Leggo cose
         url: "libreria"
   socialIcons:

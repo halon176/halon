@@ -18,7 +18,7 @@ date: 2021-01-30T11:28:40+01:00
 | Dorn Wulf            | Phobia                                          |   |
 | Dorn Wulf            | Presenza Oscura                                 |   |
 | Dorn Wulf            | [Incubo](https://blog.halon.cc/posts/2021-02-19-recensione-incubo-dorn-wulf/)             | 7 |
-| Haruki Murakami      | Norwegian wood ❤️                               |   |
+| Haruki Murakami      | [Norwegian wood ❤️](https://halon.cc/posts/2022-01-28-recensione-norwegian-wood-haruki-murakami/) | 7 |
 | James Patterson      | Tradimento finale                               |   |
 | Lars Kepler          | L'esecutore                                     | 6 |
 | Roberto Saviano      | Gomorra                                         |   |
@@ -39,6 +39,8 @@ date: 2021-01-30T11:28:40+01:00
 |       ---            |        ---                                      | :---: |
 | Alessandro Barbero   | Dante                                           |   |
 | Yuval Harari         | Homo Deus                                       |   |
+| Tali Sharot          | La scienza della persuasione                    | 5 |
+
 
 ### Markeding 💻
 
@@ -51,5 +53,5 @@ date: 2021-01-30T11:28:40+01:00
 | Autore               | Titolo                                          | Voto |
 |       ---            |        ---                                      | :---: |
 | Stefano Baldini      | Quelli che corrono                              | 4 |
-| Stefano Baldini      | Maratona per tutti                              |   |
+| Stefano Baldini      | Maratona per tutti                              | 5 |
 
