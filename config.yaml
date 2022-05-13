@@ -103,6 +103,12 @@ params:
       url: "https://discordapp.com/users/199192913064886272"
     - name: lastfm
       url: "https://www.last.fm/user/halon176"
+    - name: steam
+      url: "https://steamcommunity.com/id/hakon_by/"
+    - name: snapchat
+      url: "https://www.snapchat.com/add/halon176"
+    - name: spotify
+      url: "https://open.spotify.com/user/11148187901"
     - name: rss
       url: index.xml
   domain: "halon.cc"
@@ -113,3 +119,4 @@ params:
   comments: true
   ShowShareButtons: true
   author: halon
+  ShowFullTextinRSS: true
