@@ -20,6 +20,7 @@ date: 2021-01-30T11:28:40+01:00
 | Dorn Wulf            | [Incubo](https://blog.halon.cc/posts/2021-02-19-recensione-incubo-dorn-wulf/)             | 7 |
 | Haruki Murakami      | [Norwegian wood ❤️](https://halon.cc/posts/2022-01-28-recensione-norwegian-wood-haruki-murakami/) | 7 |
 | James Patterson      | Tradimento finale                               |   |
+| Jeff Lindsay         | La Mano Sinistra di Dio                         |   |
 | Lars Kepler          | L'esecutore                                     | 6 |
 | Roberto Saviano      | Gomorra                                         |   |
 
