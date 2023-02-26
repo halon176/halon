@@ -16,7 +16,7 @@ categories: ["libri"]
 >
 > -- <cite> The Guardian </cite>
 
-Parto con dire che è stato un libro sofferto, contiene delle parti estremamente lente alternate da alcuni piccoli avanzamenti di trama che mi facevano recuperare un minimo d'interesse. Ho dovuto leggerlo a più riprese.
+Parto con dire che è stato un libro sofferto, [Norwegian Wood](https://amzn.to/40vnsZt) contiene delle parti estremamente lente alternate da alcuni piccoli avanzamenti di trama che mi facevano recuperare un minimo d'interesse. Ho dovuto leggerlo a più riprese.
 
 ## La trama
 
