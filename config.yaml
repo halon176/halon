@@ -95,6 +95,8 @@ params:
       url: "https://twitter.com/halon_by"
     - name: youtube
       url: "https://www.youtube.com/channel/UCejuBRsBy7k_hKfkO8VTPfg"
+    - name: linkedin
+      url: https://www.linkedin.com/in/halon/
     - name: email
       url: "mailto:hello@halon.cc"
     - name: github
@@ -103,8 +105,6 @@ params:
       url: "https://discordapp.com/users/199192913064886272"
     - name: lastfm
       url: "https://www.last.fm/user/halon176"
-    - name: spotify
-      url: "https://open.spotify.com/user/11148187901"
     - name: steam
       url: "https://steamcommunity.com/id/hakon_by/"
     - name: rss
