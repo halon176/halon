@@ -82,10 +82,8 @@ params:
         url: "posts"
       - name: chi sono
         url: "chi-sono"
-      - name: Da 0 a Maratona
-        url: "da-0-a-maratona"
       - name: Leggo cose
-        url: "libreria"
+        url: "https://halon.notion.site/f1af7cb37e4342c88cf0b6c257029651?v=0332f0d9290343bea1ba2b9d2029c530"
   socialIcons:
     - name: instagram
       url: "https://www.instagram.com/halon176/"
