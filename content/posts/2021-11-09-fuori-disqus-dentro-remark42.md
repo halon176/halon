@@ -8,7 +8,7 @@ cover:
     caption: ""
     relative: false # To use relative path for cover image, used in hugo Page-bundles
 
-translationKey: fromdisqustoremark
+translationKey: from-disqus-to-remark
 categories: ["blog","tech"]
 ---
 Se c'è una cosa che ho sempre voluto avere sono i commenti sul blog. Pur andando contro la filosofia minimale, a parer mio è necessario per dare quel minimo di interazione fra chi crea i contenuti e chi legge, oltre a dare la possibilità agli utenti di interagire fra loro e fare domande.
