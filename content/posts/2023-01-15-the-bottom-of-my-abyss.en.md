@@ -8,7 +8,7 @@ cover:
     caption: ""
     relative: false # To use relative path for cover image, used in hugo Page-bundles
 
-translationKey: il-fondo-del-mio-abisso
+translationKey: ilfondodelmioabisso
 categories: ["blog"]
 ---
 
