@@ -6,6 +6,4 @@ translationKey: about
 ---
 Fondatore e CEO di [IsGovernoStillAlive](https://isgovernostillalive.info)
 
-Fondatore e CEO di [AZNALUBMA](https://blog.halon.cc/posts/2021-09-02-merge-articoli-aznalubma/) (progetto in fase di dismissione)
-
 Co-fondatore e CEO della community ["4 Salti in Barella"](https://t.me/quattrosaltiinbarella)
