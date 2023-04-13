@@ -82,8 +82,12 @@ params:
         url: "posts"
       - name: chi sono
         url: "chi-sono"
-      - name: Leggo cose
-        url: "https://halon.notion.site/f1af7cb37e4342c88cf0b6c257029651?v=0332f0d9290343bea1ba2b9d2029c530"
+      - name: Lista Libri
+        url: "https://halon.notion.site/f1af7cb37e4342c88cf0b6c257029651"
+      - name: Lista Film
+        url: "https://halon.notion.site/647ee95580c54ebb88bb20f2bec16c06"
+      - name: Lista Serie
+        url: "https://halon.notion.site/08761f3063cc43c19c606760673d7a1f"
   socialIcons:
     - name: instagram
       url: "https://www.instagram.com/halon176/"
