@@ -2,3 +2,4 @@ public/
 .vscode/
 .directory
 .hugo_build.lock
+.idea/
