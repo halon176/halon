@@ -127,6 +127,8 @@ Restart=always
 [Install]
 WantedBy=multi-user.target
 ```
+> **_NOTE:_**: Some guides include the `-g` option, which gives me an error and is also missing from the official documentation.
+> Additionally, there's the `--origin` option which restricts websocket access, but when I tried to set it, it didn't work for me. As a result, I've left it out.
 
 Now we enable the service:
 
