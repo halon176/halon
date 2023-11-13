@@ -4,8 +4,6 @@ DefaultContentLanguage: it
 title: halon
 theme: PaperMod
 
-googleAnalytics: UA-188035113-1
-
 copyright: Everything is mine
 
 
@@ -72,7 +70,7 @@ assets:
 params:
   profileMode:
     enabled: true
-    title: "halon's site" # optional default will be site title
+    title: "halon's site"
     subtitle: "Bentenut* a tutt* nel mio piccolo mondo"
     imageUrl: "profpic.jpg"
     imageTitle: "<title of image as alt>"
@@ -97,7 +95,7 @@ params:
     - name: twitter
       url: "https://twitter.com/halon_by"
     - name: youtube
-      url: "https://www.youtube.com/channel/UCejuBRsBy7k_hKfkO8VTPfg"
+      url: "https://www.youtube.com/channel/UC0AYdNU4NtuxWASP4Qlil7w"
     - name: linkedin
       url: https://www.linkedin.com/in/halon/
     - name: email

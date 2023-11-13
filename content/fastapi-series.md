@@ -12,8 +12,8 @@ Link alla [playlist completa su youtube](https://www.youtube.com/playlist?list=P
 | 3   | [Struttura del progetto e Pydantic-Settings](https://youtu.be/Zj6mR-WIdAM)    | 17/10/2023 |
 | 4   | [Alembic: Database e Migrazioni](https://youtu.be/4vK7gscN1xQ)                | 24/10/2023 |
 | 5   | [SQLAlchemy e interrogazioni, CRUD](https://youtu.be/4vK7gscN1xQ)             | 31/10/2023 |
-| 6   | Deploy con Docker                                                             | 07/11/2023 |
-| 7   | Autorizzazione e Gestione Utenti                                              | 14/11/2023 |
+| 6   | [Deploy con Docker](https://youtu.be/R2Z_SSf_wdo)                             | 07/11/2023 |
+| 7   | [Utenti e Autenticazione con JWT Bearer Token](https://youtu.be/uLAdMD90Yf8)  | 14/11/2023 |
 | 8   | Cashing con REDIS                                                             | 21/11/2023 |
 | 9   | Websocket                                                                     | 28/11/2023 |
 | 10  | Gestione delle Dipendenze                                                     | 05/12/2023 |
