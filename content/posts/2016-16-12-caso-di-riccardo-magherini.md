@@ -8,6 +8,8 @@ cover:
     #caption: "I blog hanno ancora senso di esistere? Forse si."
     relative: false # To use relative path for cover image, used in hugo Page-bundles
 params:
+    ShowShareButtons: true
+
 categories:  ["aznalubma"]
 ---
 
