@@ -81,12 +81,9 @@ params:
         url: "posts"
       - name: chi sono
         url: "chi-sono"
-      - name: Lista Libri
-        url: "https://halon.notion.site/f1af7cb37e4342c88cf0b6c257029651"
-      - name: Lista Film
-        url: "https://halon.notion.site/647ee95580c54ebb88bb20f2bec16c06"
-      - name: Lista Serie
-        url: "https://halon.notion.site/08761f3063cc43c19c606760673d7a1f"
+      - name: progetti
+        url: "progetti"
+
   socialIcons:
     - name: instagram
       url: "https://www.instagram.com/halon176/"
@@ -106,8 +103,6 @@ params:
       url: "https://discordapp.com/users/199192913064886272"
     - name: lastfm
       url: "https://www.last.fm/user/halon176"
-    - name: steam
-      url: "https://steamcommunity.com/id/hakon_by/"
     - name: rss
       url: index.xml
   domain: "halon.cc"
