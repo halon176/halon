@@ -1,7 +1,6 @@
 ---
 title: "Resusci Anne: la storia della sconosciuta della Senna"
 date: 2016-01-18
-draft: false
 cover:
     image: '../posts/img/resuscianne.jpg'
     alt: "<alt text>"
@@ -10,7 +9,6 @@ cover:
 params:
     ShowShareButtons: true
 
-comments: true
 categories:  ["aznalubma"]
 
 ---

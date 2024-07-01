@@ -2,7 +2,6 @@
 layout: post
 title: "Autista di ambulanza: requisiti ed obblighi"
 date: 2015-11-29
-comments: true
 cover:
     image: '../posts/img/autisti.jpg'
     alt: "<alt text>"

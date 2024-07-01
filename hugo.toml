@@ -1,0 +1,136 @@
+baseurl = "https://halon.cc/"
+title = "halon"
+theme = "hugo-coder"
+languagecode = "it"
+defaultcontentlanguage = "it"
+
+comments = true
+
+[languages]
+  [languages.en]
+    languageName = "🇺🇸"
+    weight = 1
+    [languages.en.params]
+      author = "halon"
+    [[languages.en.menu.main]]
+      name = "Blog"
+      weight = 1
+      url  = "posts/"
+    [[languages.en.menu.main]]
+      name = "About"
+      weight = 2
+      url = "about/"
+    [[languages.en.menu.main]]
+      name = "Projects"
+      weight = 3
+      url = "projects/"
+    
+  [languages.it]
+    languageName = "🇮🇹"
+    weight = 2
+
+paginate = 20
+
+[services]
+# [services.disqus]
+# disqusShortname = "yourdiscussshortname"
+
+[markup.highlight]
+style = "github-dark"
+
+[params]
+  author = "halon"
+  info = "Backend developer, runner and cat lover, in reverse order."
+  description = "halon's personal blog"
+  keywords = "blog,developer,personal"
+  avatarurl = "profpic.jpg"
+  license = '<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA-4.0</a>'
+  #gravatar = "john.doe@example.com"
+
+  faviconSVG = "favicon.ico"
+  favicon_32 = "favicon.ico"
+  favicon_16 = "favicon.ico"
+
+  since = 2015
+
+  enableTwemoji = true
+
+  colorScheme = "auto"
+  hidecolorschemetoggle = false
+
+  # customCSS = ["css/custom.css"]
+  # customSCSS = ["scss/custom.scss"]
+  # customJS = ["js/custom.js"]
+
+[taxonomies]
+  category = "categories"
+  series = "series"
+  tag = "tags"
+  author = "authors"
+
+# Social links
+[[params.social]]
+  name = "Instagram"
+  icon = "fa-brands fa-instagram fa-2x"
+  weight = 1
+  url = "https://www.instagram.com/halon176/"
+[[params.social]]
+  name = "Telegram"
+  icon = "fa-brands fa-telegram fa-2x"
+  weight = 2
+  url = "https://t.me/halon176"
+[[params.social]]
+  name = "Twitter" 
+  icon = "fa-brands fa-twitter fa-2x"
+  weight = 3
+  url = "https://twitter.com/halon176"
+[[params.social]]
+  name = "YouTube"
+  icon = "fa-brands fa-youtube fa-2x"
+  weight = 4
+  url = "https://www.youtube.com/channel/UC0AYdNU4NtuxWASP4Qlil7w"
+[[params.social]]
+  name = "LinkedIn"
+  icon = "fa-brands fa-linkedin fa-2x"
+  weight = 5
+  url = "https://www.linkedin.com/in/halon/"
+[[params.social]]
+  name = "Email"
+  icon = "fa-solid fa-envelope fa-2x"
+  weight = 6
+  url = "mailto:hello@halon.cc"
+[[params.social]]
+  name = "GitHub"
+  icon = "fa-brands fa-github fa-2x"
+  weight = 7
+  url = "https://github.com/halon176"
+[[params.social]]
+  name = "Discord"
+  icon = "fa-brands fa-discord fa-2x"
+  weight = 8
+  url = "https://discordapp.com/users/199192913064886272"
+[[params.social]]
+  name = "Last.fm"
+  icon = "fa-brands fa-lastfm fa-2x"
+  weight = 9
+  url = "https://www.last.fm/user/halon176"
+[[params.social]]
+  name = "RSS"
+  icon = "fa-solid fa-rss fa-2x"
+  weight = 10
+  url = "index.xml"
+
+# Menu links
+[[menu.main]]
+  name = "Blog"
+  weight = 1
+  url  = "posts/"
+[[menu.main]]
+  name = "About"
+  weight = 2
+  url = "chi-sono/"
+[[menu.main]]
+  name = "Progetti"
+  weight = 3
+  url = "progetti/"
+
