@@ -1,16 +1,9 @@
----
-title: "Piccoli bot crescono: HCryptoPrice raggiunge la versione v1.0.0!"
-date: 2023-08-05T21:46:12+01:00
-draft: false
-cover:
-  image: "../posts/img/hcryptoprice-first-stable.webp"
-  alt: "Immagine di copertina"
-  caption: ""
-  relative: false
-
-translationKey: primastabile
-categories: [ "tech" ]
----
++++
+title = "Piccoli bot crescono: HCryptoPrice raggiunge la versione v1.0.0!"
+date = 2023-08-05 21:46:12
+images = ["/covers/hcryptoprice-first-stable.webp"]
+categories = ["tech"]
++++
 
 È trascorso parecchio tempo dall'attivazione del nostro bot, e tutte le funzionalità di base che avevo in mente durante
 la fase di progettazione sono state implementate. Pertanto, ritengo sia giunto il momento di annunciare con orgoglio la

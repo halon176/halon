@@ -1,16 +1,9 @@
----
-title: "The bottom of my abyss"
-date: 2023-01-15T16:56:12+01:00
-draft: false
-cover:
-    image: "../posts/img/porto.jpg"
-    alt: "<alt text>"
-    caption: ""
-    relative: false # To use relative path for cover image, used in hugo Page-bundles
-
-translationKey: ilfondodelmioabisso
-categories: ["blog"]
----
++++
+title = "The bottom of my abyss"
+date = 2023-01-15 16:56:12
+images = ["/covers/porto.jpg"]
+categories = ["blog"]
++++
 
 It's been a while since I last wrote. Life has been quite turbulent, both in my work and private life. But there's a recurring thought that has been occupying my mind for a while now, and I wanted to write it down here, both to reflect on it and to get some opinions: sex as the ruin of all kinds of interest.
 

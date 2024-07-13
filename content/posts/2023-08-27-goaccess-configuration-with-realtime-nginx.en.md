@@ -1,16 +1,9 @@
----
-title: "GoAccess Configuration with Real-time Nginx Statistics"
-date: 2023-08-27T16:46:12+01:00
-draft: false
-cover:
-  image: "../posts/img/goaccess.webp"
-  alt: "Immagine di copertina"
-  caption: ""
-  relative: false
-
-translationKey: goaccessconfiguration
-categories: [ "tech" ]
----
++++
+title = "GoAccess Configuration with Real-time Nginx Statistics"
+date = 2023-08-27 16:46:12
+images = ["/covers/goaccess.webp"]
+categories = ["tech"]
++++
 
 A few days ago, I received an email from Google informing me that I needed to migrate my Universal Analytics properties to Google Analytics 4. The basic problem is simple: GA4 doesn't seem to be supported by the theme I use for my blog. However, many other considerations emerged as well.
 

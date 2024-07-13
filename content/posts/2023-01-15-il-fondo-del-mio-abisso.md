@@ -1,16 +1,9 @@
----
-title: "Il fondo del mio abisso"
-date: 2023-01-15T16:56:12+01:00
-draft: false
-cover:
-    image: "../posts/img/porto.jpg"
-    alt: "<alt text>"
-    caption: ""
-    relative: false # To use relative path for cover image, used in hugo Page-bundles
-
-translationKey: ilfondodelmioabisso
-categories: ["blog"]
----
++++
+title = "Il fondo del mio abisso"
+date = 2023-01-15 16:56:12
+images = ["/covers/porto.jpg"]
+categories = ["blog"]
++++
 
 E' un po che non scrivo, il periodo è parecchio turbolento, sia nel lavoro che nella vita privata. C'è pero un chiodo fisso che tiene la mia mente bloccata da diverso tempo e volevo buttarlo qui, sia per rifletterci meglio che per avere qualche opinione in merito: il sesso come rovina di ogni tipo di interesse.
 

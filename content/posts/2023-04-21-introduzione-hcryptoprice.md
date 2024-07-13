@@ -1,16 +1,9 @@
----
-title: "Ho generato una creatura e si chiama HCryptoPrice"
-date: 2023-04-21T12:56:12+01:00
-draft: false
-cover:
-    image: "../posts/img/telegram-bot-creation-cover.jpg"
-    alt: "<alt text>"
-    caption: ""
-    relative: false # To use relative path for cover image, used in hugo Page-bundles
-
-translationKey: introduzionehcryptoprice
-categories: ["tech"]
----
++++
+title = "Ho generato una creatura e si chiama HCryptoPrice"
+date = 2023-04-21 12:56:12
+images = ["/covers/telegram-bot-creation-cover.jpg"]
+categories = ["tech"]
++++
 
 Ho partorito una piccola creatura, un bot di telegram in grado fare richiesta alle API di GoinGecko e di restituisce in un messaggio i dati relativi al prezzo, capitalizzazione, ATH, ATL e altre sigle.
 
