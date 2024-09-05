@@ -1,16 +1,9 @@
----
-title: "Recensione: Norwegian Wood - Haruki Murakami"
-date: 2022-01-28T00:20:12+01:00
-draft: false
-cover:
-    image: "../posts/img/norwegian-wood.jpg"
-    alt: "<alt text>"
-    caption: ""
-    relative: false # To use relative path for cover image, used in hugo Page-bundles
-
-translationKey: 
-categories: ["libri"]
----
++++
+title = "Recensione: Norwegian Wood - Haruki Murakami"
+date = 2022-01-28 00:20:12
+images = ["/covers/norwegian-wood.jpg"]
+categories = ["libri"]
++++
 
 >La costruzione della scrittura di Murakami è così impalpabile e squisita che ogni cosa egli scelga di descrivere vibra di potenzialità simbolica: una camicia stesa ad asciugare, dei ritagli di carta, un fermafoglio a forma di farfalla
 >

@@ -1,16 +1,9 @@
----
-title: "La fottuta Terza Dose"
-date: 2021-11-27T14:20:12+01:00
-draft: false
-cover:
-    image: "../posts/img/terzadose.jpg"
-    alt: "<alt text>"
-    caption: ""
-    relative: false # To use relative path for cover image, used in hugo Page-bundles
-
-translationKey: 
-categories: ["blog"]
----
++++
+title = "La fottuta Terza Dose"
+date = 2021-11-27 14:20:12
+images = ["/covers/terzadose.jpg"]
+categories = ["blog"]
++++
 
 ## Incipit
 

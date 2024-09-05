@@ -1,16 +1,10 @@
----
-title: "Bye Disqus, Welcome remark42!"
-date: 2021-11-09T20:56:12+01:00
-draft: false
-cover:
-    image: "../posts/img/remark42.jpg"
-    alt: "<alt text>"
-    caption: ""
-    relative: false # To use relative path for cover image, used in hugo Page-bundles
++++
+title = "Bye Disqus, Welcome remark42!"
+date = 2021-11-09 20:56:12
+images = ["/covers/remark42.jpg"]
+categories = ["blog","tech"]
++++
 
-translationKey: fromdisqustoremark
-categories: ["blog","tech"]
----
 There's one thing I've always wanted to have: blog comments. Even if it goes against minimalism, in my opinion it is necessary to give that minimum of interaction between those who create the contents and the reader, as well as give users the possibility to interact with each other and ask questions.
 
 ### Staticman

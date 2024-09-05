@@ -1,20 +1,9 @@
----
-title: "Preparazione Maratona - Ultimo aggiornamento"
-date: 2021-09-15
-draft: false
-cover:
-    image: "/posts/img/preparazione-maratona-2.jpg"
-    # can also paste direct link from external site
-    # ex. https://i.ibb.co/K0HVPBd/paper-mod-profilemode.png
-    alt: "<alt text>"
-    caption: " "
-    relative: false # To use relative path for cover image, used in hugo Page-bundles
-params:
-    ShowShareButtons: true
-
-categories: ["running"]
-
----
++++
+title = "Preparazione Maratona - Ultimo aggiornamento"
+date = 2021-09-15
+images = ["/covers/preparazione-maratona-2.jpg"]
+categories = ["running"]
++++
 
 Alla Maratona mancano ufficialmente 3 giorni ed una manciata di ore. Ormai la preparazione è terminata e me la sto prendendo comoda per recuperare le energie per il grande giorno.
 

@@ -3,8 +3,8 @@ title = "halon"
 theme = "hugo-coder"
 languagecode = "it"
 defaultcontentlanguage = "it"
+metaDataFormat = "toml"
 
-comments = true
 
 [languages]
   [languages.en]
@@ -133,4 +133,5 @@ style = "github-dark"
   name = "Progetti"
   weight = 3
   url = "progetti/"
+
 

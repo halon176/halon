@@ -1,19 +1,9 @@
----
-title: "La mia Prima Maratona"
-date: 2021-09-20
-draft: false
-cover:
-    image: "../posts/img/partenzamaratona.jpg"
-    alt: "<alt text>"
-    caption: ""
-    relative: false # To use relative path for cover image, used in hugo Page-bundles
-params:
-    ShowShareButtons: true
-
-categories: ["running","blog"]
-
----
-
++++
+title = "La mia Prima Maratona"
+date = 2021-09-20
+images = ["/covers/partenzamaratona.jpg"]
+categories = ["running","blog"]
++++
 
 Amo Roma.  Nonostante ci fossi stato svariate volte, quel giorno era tutto diverso, tutto il centro città era bloccato per noi. Aveva un non so ché di anomalo.
 
