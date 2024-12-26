@@ -29,7 +29,7 @@ metaDataFormat = "toml"
     languageName = "🇮🇹"
     weight = 2
 
-paginate = 20
+pagination.pagerSize = 20
 
 [services]
 # [services.disqus]
