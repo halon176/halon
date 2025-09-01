@@ -26,7 +26,7 @@ if not BLOG_PUBLIC_DIR:
     sys.exit(1)
 
 if not GITHUB_BLOG_SECRET:
-    logger.fatal("GITHUB_SECRET environment variable is not set")
+    logger.fatal("GITHUB_BLOG_SECRET environment variable is not set")
     sys.exit(1)
 
 def run_cmd(cmd, cwd=None):
