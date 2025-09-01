@@ -40,7 +40,7 @@ style = "github-dark"
 
 [params]
   author = "halon"
-  info = "Backend developer, runner and cat lover, in reverse order."
+  info = "Backend developer, runner and cat lover, in reverse order. TEST"
   description = "halon's personal blog"
   keywords = "blog,developer,personal"
   avatarurl = "profpic.jpg"
