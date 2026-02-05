@@ -7,7 +7,7 @@ categories = ["libri"]
 
 >La costruzione della scrittura di Murakami è così impalpabile e squisita che ogni cosa egli scelga di descrivere vibra di potenzialità simbolica: una camicia stesa ad asciugare, dei ritagli di carta, un fermafoglio a forma di farfalla
 >
-> -- <cite> The Guardian </cite>
+> -- *The Guardian*
 
 Parto con dire che è stato un libro sofferto, [Norwegian Wood](https://amzn.to/40vnsZt) contiene delle parti estremamente lente alternate da alcuni piccoli avanzamenti di trama che mi facevano recuperare un minimo d'interesse. Ho dovuto leggerlo a più riprese.
 
