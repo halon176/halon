@@ -4,6 +4,11 @@ theme = "hugo-coder"
 languagecode = "it"
 defaultcontentlanguage = "it"
 metaDataFormat = "toml"
+enableRobotsTXT = true
+
+[minify]
+  minifyOutput = true
+  disableXML = true
 
 
 [languages]
