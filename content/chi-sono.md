@@ -11,7 +11,7 @@ Proprietario, sceneggiatore e presentatore del canale [Happy Backending](https:/
 
 Co-fondatore e CEO della community ["4 Salti in Barella"](https://t.me/quattrosaltiinbarella)
 
-### Qualcosa in piu' su di me
+### Qualcosa in più su di me
 
 [Lista Libri](https://halon.notion.site/f1af7cb37e4342c88cf0b6c257029651)
 

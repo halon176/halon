@@ -15,7 +15,7 @@ params:
 categories: ["aznalubma"]
 translationKey: "2021-09-02-aznalubma-merge"
 ---
-Dopo averci riflettuto parecchio ho deciso di non creare una sezione apposita per i vecchi articoli di aznalubma (quei pochi che meritano di essere letti). Penso che la soluzione migliore sia di inglobare il tutto assegnando agli articoli all'effettiva data della stesura.
+Dopo averci riflettuto parecchio ho deciso di non creare una sezione apposita per i vecchi articoli di aznalubma (quei pochi che meritano di essere letti). Penso che la soluzione migliore sia di inglobare il tutto assegnando agli articoli l'effettiva data della stesura.
 
 Tale soluzione permetterebbe a me di continuare a parlare del mondo del soccorso e di mantenere nella solita __categoria__ medesimi articoli, visto che comunque avevano più che altro lo scopo divulgativo (ed anche molto polemico ma fa tutto parte del pacchetto).
 

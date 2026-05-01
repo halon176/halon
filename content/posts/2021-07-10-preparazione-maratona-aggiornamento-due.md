@@ -15,13 +15,13 @@ params:
 categories: ["running"]
 translationKey: "2021-07-10-marathon-prep-2"
 ---
-Finalmente il dado è tratto, dopo un travaglio interminabile ho completato l'iscrizione, la gara si svolgerà il 19 settembre 2021 ore 5! Ritirarsi ora vorrebbe dire perdere i soldi dell'iscrizione è questo sarebbe tutt'altro che accettabile.
+Finalmente il dado è tratto, dopo un travaglio interminabile ho completato l'iscrizione, la gara si svolgerà il 19 settembre 2021 ore 5! Ritirarsi ora vorrebbe dire perdere i soldi dell'iscrizione e questo sarebbe tutt'altro che accettabile.
 
 ## Correre **costa**
 
 Ingenuamente, ad un primo impatto, la corsa potrebbe sembrare il meno costoso degli sport. In fondo di che si tratta? Ti metti un paio di scarpe, esci e corri. La situazione però si ribalta quando passi da correre a __correre bene__.
 
-Già al secondo mese dall'inizio della preparazione si è reso necessario [l'acquisto di scarpe da corsa](https://blog.halon.cc/posts/2021-05-16-preparazione-maratona-aggiornamento-1/#le-scarpe), acquisto che miglioro notevolmente il benessere, aumentato le prestazioni e con tutta probabilità evitato diversi infortuni. Tutto questo però alla modica cifra di 50€ di visita dal podologo e 110€ per le scarpe.
+Già al secondo mese dall'inizio della preparazione si è reso necessario [l'acquisto di scarpe da corsa](https://blog.halon.cc/posts/2021-05-16-preparazione-maratona-aggiornamento-1/#le-scarpe), acquisto che migliorò notevolmente il benessere, aumentato le prestazioni e con tutta probabilità evitato diversi infortuni. Tutto questo però alla modica cifra di 50€ di visita dal podologo e 110€ per le scarpe.
 
 Quando ho cominciato a prendere in esame la gara a cui iscrivermi si sono resi necessari altri "adempimenti". Per cominciare devi essere iscritto ad un'associazione affiliata FIDAL, per iscriversi a quest'ultima c'è bisogno di fare una visita medico sportiva, fare la foto con la maglia sociale presso uno studio fotografico e pagare la tessera di associazione. Una volta terminato bisogna ovviamente pagare la quota d'iscrizione alla gara. In estrema sintesi.
 
@@ -35,14 +35,14 @@ Quando ho cominciato a prendere in esame la gara a cui iscrivermi si sono resi n
 | iscrizione    | 90,85       |
 | **somma**     | **335,85€** | 
 
-Quindi banalmente, per fare una cara di corsa si spende un minimo di 335,85€, il costo di un abbonamento annuo in palestra.
+Quindi banalmente, per fare una gara di corsa si spende un minimo di 335,85€, il costo di un abbonamento annuo in palestra.
 
 
 ## Gli infortuni
 
-Lo ammetto, sono uno che si rompe sempre. Ogni volta che provo a praticare uno sport a livello serio riesco a traumatizzarmi e finire in fisioterapia per mesi. E' successo in palestra, con una tendinite al polso che oltre ai farmaci e tekar ha richiesto l'intervento di agopuntura per essere sanata, è successo con la muay thai, un piccolo trauma al pollice che mi impediva di fare qualsiasi tipo di sparring e che sembrava impossibile da sanare. Quindi cominciando a correre ho cercato di prendere ogni precauzione possibile, riscaldamento molto articolato all'inizio, stretching alla fine, scarpe idonee, qualsiasi cosa fosse utile per evitare i traumi.
+Lo ammetto, sono uno che si rompe sempre. Ogni volta che provo a praticare uno sport a livello serio riesco a traumatizzarmi e finire in fisioterapia per mesi. È successo in palestra, con una tendinite al polso che oltre ai farmaci e tecar ha richiesto l'intervento di agopuntura per essere sanata, è successo con la muay thai, un piccolo trauma al pollice che mi impediva di fare qualsiasi tipo di sparring e che sembrava impossibile da sanare. Quindi cominciando a correre ho cercato di prendere ogni precauzione possibile, riscaldamento molto articolato all'inizio, stretching alla fine, scarpe idonee, qualsiasi cosa fosse utile per evitare i traumi.
 
-Nonostante tutto, un piccolo trauma è arrivato. Durante l'allenamento sui 21km del 29/05 sono stato un po avventato, ci andai dopo aver lavorato tutta la notte e al diciottesimo chilometri (tratto in salita), forse per un movimento sbagliato del piede mi sono fatto male al [tensore della fascia lata](https://it.wikipedia.org/wiki/Muscolo_tensore_della_fascia_lata) destro (un fascio di muscoli che parte dalla testa del femore ed arriva al ginocchio). Ho provato un dolore lancinante e qel giorno ho dovuto interrompere l'allenamento zoppicando per gli ultimi tre chilometri fino a casa. Dopo una pausa di 4 giorni ho riprovato a correre ed il dolore sembra essere rientrato, però tutt'oggi quando mi spingo un po oltre i miei ritmi e le mie distanze il dolore il quel esatto punto si fa sentire, monta gradualmente e mi fa capire che devo rallentare, è diventato una sorta di spia d'allarme. 
+Nonostante tutto, un piccolo trauma è arrivato. Durante l'allenamento sui 21km del 29/05 sono stato un po' avventato, ci andai dopo aver lavorato tutta la notte e al diciottesimo chilometro (tratto in salita), forse per un movimento sbagliato del piede mi sono fatto male al [tensore della fascia lata](https://it.wikipedia.org/wiki/Muscolo_tensore_della_fascia_lata) destro (un fascio di muscoli che parte dalla testa del femore ed arriva al ginocchio). Ho provato un dolore lancinante e quel giorno ho dovuto interrompere l'allenamento zoppicando per gli ultimi tre chilometri fino a casa. Dopo una pausa di 4 giorni ho riprovato a correre ed il dolore sembra essere rientrato, però tutt'oggi quando mi spingo un po' oltre i miei ritmi e le mie distanze il dolore in quel esatto punto si fa sentire, monta gradualmente e mi fa capire che devo rallentare, è diventato una sorta di spia d'allarme. 
 
 Una delle mie paure più grandi è che il grande giorno, quando sarò allo stremo delle forze sarà proprio quello il punto di cedimento che non mi farà arrivare al traguardo, visto che è già successo perfino in allenamento. Per ora continuo ad allenarmi e tenerlo d'occhio nella speranza che guarisca definitivamente.
 

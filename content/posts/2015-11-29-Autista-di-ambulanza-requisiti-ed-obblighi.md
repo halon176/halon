@@ -12,9 +12,9 @@ translationKey: "2015-11-29-ambulance-driver"
 ---
 
 
-Sirene, lampeggianti, alta velocità e quant'altro. L'autista delle ambulanze è sicuramente un ruolo che affascina ed attira i nuovi volontari. Quali requisiti deve tuttavia avere una persona per poterlo diventare e sopratutto che responsabilità ed obblighi ha?
+Sirene, lampeggianti, alta velocità e quant'altro. L'autista delle ambulanze è sicuramente un ruolo che affascina ed attira i nuovi volontari. Quali requisiti deve tuttavia avere una persona per poterlo diventare e soprattutto che responsabilità ed obblighi ha?
 A livello burocratico:
-A livello nazionale, ad oggi, non esiste alcuna figura di autista-soccorritore. La formazione ed i regolamenti riguardanti tale figura sono prerogative delle Regioni. Alcune di esse, come la [Lombardia](http://www.welfare.regione.lombardia.it//cs/Satellite?c=Page&amp;childpagename=DG_Sanita/Page/NormativaDetail&amp;pagename=DG_SANWrapper&amp;cid=1213275902673&amp;keyid=2901), hanno deliberato delle normative in proposito; altre hanno dei regolamenti poco chiari o mai attuati. Nel complesso la faccenda appare molto poco chiara e variegata da Regione a Regione: [questo articolo](http://www.alexstecchezzini.it/autista-soccorritore-sintesi-di-una-storia-italiana/) da un'idea più chiara sulla vicenda burocratica.
+A livello nazionale, ad oggi, non esiste alcuna figura di autista-soccorritore. La formazione ed i regolamenti riguardanti tale figura sono prerogative delle Regioni. Alcune di esse, come la [Lombardia](http://www.welfare.regione.lombardia.it//cs/Satellite?c=Page&amp;childpagename=DG_Sanita/Page/NormativaDetail&amp;pagename=DG_SANWrapper&amp;cid=1213275902673&amp;keyid=2901), hanno deliberato delle normative in proposito; altre hanno dei regolamenti poco chiari o mai attuati. Nel complesso la faccenda appare molto poco chiara e variegata da Regione a Regione: [questo articolo](http://www.alexstecchezzini.it/autista-soccorritore-sintesi-di-una-storia-italiana/) dà un'idea più chiara sulla vicenda burocratica.
 
 Caso a sé rappresenta la Croce Rossa Italiana. Come di certo alcuni di voi sapranno, tutti i mezzi della suddetta sono targati CRI e la loro guida deve essere autorizzata mediante patente ministeriale. Il regolamento della Croce Rossa prevede l'accesso al corso ai militi che abbiano effettuato almeno due anni di servizio ed il possesso del livello avanzato. Tale patente prevede delle categorie simili a quelle della patente tradizionale ed ogni categoria abilita alla guida di uno specifico mezzo (automobile, pulmino, ambulanza ecc.).
 In genere, i requisiti comuni di tutti i regolamenti regionali sono:
@@ -23,7 +23,7 @@ In genere, i requisiti comuni di tutti i regolamenti regionali sono:
 - essere in possesso di una patente B.
 
 Per esempio: il regolamento della Toscana prevede che l'autista abbia o 21 anni o  abbia conseguito da 3 anni la patente (condizione che ho sempre reputato alquanto ambigua) ed essere in possesso oltre che della patente B, anche del livello base.
-Da non tralasciare i regolamenti dei singoli enti che potrebbero avere criteri molto diversi per abilitare un autista alla guida in emergenza (es. livello avanzato, anni di servizio ecc..)
+Da non tralasciare i regolamenti dei singoli enti che potrebbero avere criteri molto diversi per abilitare un autista alla guida in emergenza (es. livello avanzato, anni di servizio ecc.)
 
 #### Che responsabilità ha un autista?
 
@@ -31,7 +31,7 @@ Oltre alle responsabilità descritte [nell'articolo precedente] ricordatevi che 
 
 #### Invece durante il trasporto verso l'ospedale?
 
-Oltre che per se stesso, l'autista dell'ambulanza ha la responsabilità anche di tutti i membri dell'equipaggio, del malato ed di eventuali altri trasportati (es. genitore nel caso di un paziente minorenne). Inoltre è responsabile anche per tutti i danni arrecati ai mezzi o persone sulla strada. [L'articolo 177 del codice della strada](http://www.aci.it/i-servizi/normative/codice-della-strada/titolo-v-norme-di-comportamento/art-177-circolazione-degli-autoveicoli-e-dei-motoveicoli-adibiti-a-servizi-di-polizia-o-antincendio-e-delle-autoambulanze.html) regolamenta anche il comportamento della ambulanze. Tra i principali aspetti:
+Oltre che per se stesso, l'autista dell'ambulanza ha la responsabilità anche di tutti i membri dell'equipaggio, del malato e di eventuali altri trasportati (es. genitore nel caso di un paziente minorenne). Inoltre è responsabile anche per tutti i danni arrecati ai mezzi o persone sulla strada. [L'articolo 177 del codice della strada](http://www.aci.it/i-servizi/normative/codice-della-strada/titolo-v-norme-di-comportamento/art-177-circolazione-degli-autoveicoli-e-dei-motoveicoli-adibiti-a-servizi-di-polizia-o-antincendio-e-delle-autoambulanze.html) regolamenta anche il comportamento delle ambulanze. Tra i principali aspetti:
 
 L'utilizzo sempre congiunto dei dispositivi acustici e luminosi autorizza il conducente a non osservare gli obblighi, i divieti e le limitazioni poste dal codice della strada rispettando comunque le regole di comune prudenza e diligenza.
 Rispettare comunque le segnalazioni degli agenti del traffico.

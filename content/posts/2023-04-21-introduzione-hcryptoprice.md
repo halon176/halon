@@ -6,13 +6,13 @@ categories = ["tech"]
 translationKey = "2023-04-21-hcryptoprice"
 +++
 
-Ho partorito una piccola creatura, un bot di telegram in grado fare richiesta alle API di GoinGecko e di restituisce in un messaggio i dati relativi al prezzo, capitalizzazione, ATH, ATL e altre sigle.
+Ho partorito una piccola creatura, un bot di telegram in grado di fare richiesta alle API di CoinGecko e di restituire in un messaggio i dati relativi al prezzo, capitalizzazione, ATH, ATL e altre sigle.
 
 ## Introduzione
 
 Frequento i gruppi Telegram dove si parla di criptovalute da anni, ma più che un fanatismo è un hobby. Ogni gruppo aveva un bot diverso e spesso non mi piacevano affatto, tutti con caratteristiche simili ma con qualche dettaglio che non mi soddisfaceva. Quindi, non appena ho avuto la capacità di farlo, ho scritto il mio bot.
 
-Il bot è a open sources e [potete trovare il suo codice completo su GitHub sotto la licenza MIT](https://github.com/halon176/h-crypto-price-bot).
+Il bot è open source e [potete trovare il suo codice completo su GitHub sotto la licenza MIT](https://github.com/halon176/h-crypto-price-bot).
 
 Chiaramente c'è anche il bot in funzione, [che potete raggiungere da qui](https://t.me/h_crypto_price_bot).
 

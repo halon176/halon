@@ -1,7 +1,7 @@
 +++ 
 draft = false
 date = 2025-02-03T00:21:27+01:00
-title = "Mi sto lascando andare"
+title = "Mi sto lasciando andare"
 description = ""
 slug = ""
 authors = []

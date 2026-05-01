@@ -15,7 +15,7 @@ Link alla [playlist completa su youtube](https://www.youtube.com/playlist?list=P
 | 5   | [SQLAlchemy e interrogazioni, CRUD](https://youtu.be/4vK7gscN1xQ)             | 31/10/2023 |
 | 6   | [Deploy con Docker](https://youtu.be/R2Z_SSf_wdo)                             | 07/11/2023 |
 | 7   | [Utenti e Autenticazione con JWT Bearer Token](https://youtu.be/uLAdMD90Yf8)  | 14/11/2023 |
-| 8   | Cashing con REDIS                                                             | 21/11/2023 |
+| 8   | Caching con Redis                                                             | 21/11/2023 |
 | 9   | Websocket                                                                     | 28/11/2023 |
 | 10  | Gestione delle Dipendenze                                                     | 05/12/2023 |
 | 11  | Celery: gestione processi background                                          | 12/12/2023 |

@@ -14,11 +14,11 @@ Un mese fa feci l'allenamento più lungo in vista della gara, 36km corsi partend
 
 La mia curiosità principale era nel testare il famigerato __muro del maratoneta__. Sembra sia un'esperienza condivisa da tutti i runner, si tratta di una sensazione di totale crollo fisico e mentale, una sensazione di stanchezza che ti porta certe volte ad abbandonare la gara. Normalmente si manifesta al 30esimo chilometro di gara, pertanto sono stato molto attento a captare le varie sensazioni per riuscire a controllarle.
 
-L'unica sensazione degna di nota è stato un dolore al fianco destro, circa a meta del torace, la provenienza del quale mi è ancora sconosciuta, è perdurato per qualche chilometro per poi scomparire del tutto.
+L'unica sensazione degna di nota è stato un dolore al fianco destro, circa a metà del torace, la provenienza del quale mi è ancora sconosciuta, è perdurato per qualche chilometro per poi scomparire del tutto.
 
-Dal trentesimo chilometro in avanti sentivo comunque una grande stanchezza ma nulla di diverso da ciò che ho sentito le prive volte che affrontavo i 21km, forse pure in misura minore.
+Dal trentesimo chilometro in avanti sentivo comunque una grande stanchezza ma nulla di diverso da ciò che ho sentito le prime volte che affrontavo i 21km, forse pure in misura minore.
 
-Un fatto secondo me degno di nota si evince dal monitoraggio della frequenza cardiaca, attorno al trentesimo chilometro è schizzata verso il massimo e si è mantenuta per un po attorno ai 190bpm, anche se poi sembrava prendere un trend discendente.
+Un fatto secondo me degno di nota si evince dal monitoraggio della frequenza cardiaca, attorno al trentesimo chilometro è schizzata verso il massimo e si è mantenuta per un po' attorno ai 190bpm, anche se poi sembrava prendere un trend discendente.
 
 ![](../img/ilmuro.jpg#center)
 

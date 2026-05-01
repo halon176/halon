@@ -6,12 +6,12 @@ categories = ["tech"]
 translationKey = "2023-08-27-goaccess"
 +++
 
-Qualche giorno fa mi è arrivata la mail di Google che mi avvisava di dover migrare le mie proprità Universal Analytics a Google Analytics 4.
+Qualche giorno fa mi è arrivata la mail di Google che mi avvisava di dover migrare le mie proprietà Universal Analytics a Google Analytics 4.
 Il problema di base è banale, GA4 non sembra essere supportato dal mio tema usato per il blog e poi però sono subentrate tutte le altre considerazioni.
 
 ## Questione etica
 
-Google Analytics è un servizio che permette di tracciare gli utenti che visitano un sito web, raccogliendo informazioni come il browser utilizzato, il sistema operativo, la posizione geografica, ecc. Questi dati mi sono certo utili per avece un'idea di chi visita il mio sito, ma allo stesso tempo mi rendo conto che non è etico raccogliere per Google questi dati senza il consenso degli utenti (e si, fin'ora non ho messo il banner, potete chiamare i caraabinieri). Per questo motivo ho deciso di rimuovere Google Analytics dal mio sito.
+Google Analytics è un servizio che permette di tracciare gli utenti che visitano un sito web, raccogliendo informazioni come il browser utilizzato, il sistema operativo, la posizione geografica, ecc. Questi dati mi sono certamente utili per avere un'idea di chi visita il mio sito, ma allo stesso tempo mi rendo conto che non è etico raccogliere per Google questi dati senza il consenso degli utenti (e sì, finora non ho messo il banner, potete chiamare i carabinieri). Per questo motivo ho deciso di rimuovere Google Analytics dal mio sito.
 
 ## GoAccess
 
@@ -62,7 +62,7 @@ andiamo a creare la directory che conterrà i file html generati da goaccess:
 sudo mkdir -p /var/www/html/goaccess
 ```
 
-quindi andiamo a modificare `/etc/nginx/sites-available/mydomain`, io lo configuro su su mydomain/analytic e il websocket su mydomain/ws, quindi aggiungo:
+quindi andiamo a modificare `/etc/nginx/sites-available/mydomain`, io lo configuro su mydomain/analytic e il websocket su mydomain/ws, quindi aggiungo:
 
 ```shell
 upstream gwsocket {
@@ -124,14 +124,14 @@ Restart=always
 [Install]
 WantedBy=multi-user.target
 ```
-> **_NOTE:_**  alcune guida includono l'opzione `-g` che mi da errore e che non trovo nemmeno nella guida ufficiale e
+> **_NOTE:_**  alcune guide includono l'opzione `-g` che mi da errore e che non trovo nemmeno nella guida ufficiale e
 > `--origin` che restringe l'accesso al websocket, ma quando provo a impostarla non mi funziona, quindi l'ho esclusa.
 
 
 
 mi raccomando di sostituire `mysite` con il vostro dominio, ora abilitiamo il servizio:
 
-ora ricaricchiamo le configurazioni dei servizi
+ora ricarichiamo le configurazioni dei servizi
     
 ```shell
 sudo systemctl daemon-reload
@@ -162,12 +162,12 @@ Come riferimento do la pagina della mia configurazione [https://halon.cc/analyti
 
 ## Conclusioni
 
-Posso dirmi per ora soddisfatto, rimangono ancora alcuni problemi da risolvece:
+Posso dirmi per ora soddisfatto, rimangono ancora alcuni problemi da risolvere:
 
 - `access.log` di nginx è impostato su una rotazione fissa, si può aumentare la rotazione ad un mese ma rimane comunque limitante, tenere un log troppo lungo può dare dei problemi, vorrei trovare un modo per mantenere i dati storici senza compromettere il sistema, in teoria dovrei salvare una qualche sintesi (che in effetti il software genera) ma sto ancora valutando come fare.
 
 - Non è il massimo avere questa pagina esposta al web, dovrei lavorare su qualche sistema di sicurezza che non implichi l'uso di un login, magari un sistema di token.
 
-Per il resto, non se avete dei problemi non esitate di chiedere sotto, vedo di integrare o correggere la guida.
+Per il resto, non se avete dei problemi non esitate a chiedere sotto, vedo di integrare o correggere la guida.
 
 saluti!

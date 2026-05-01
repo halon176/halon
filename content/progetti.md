@@ -10,7 +10,7 @@ Happy Backending è un canale YouTube che tratta argomenti di sviluppo software,
 
 [Happy Backending](https://www.youtube.com/@HappyBackending)
 
-# HCryproPriceBot
+# HCryptoPriceBot
 
 HCryptoPriceBot è un bot Telegram che permette di visualizzare il prezzo delle criptovalute. Il bot è stato sviluppato in Python utilizzando la libreria `python-telegram-bot`. E' in grado sia di visualizzare le variazioni di prezzo in diversi timeframe e grafici sia da CoinGecko che da CoinMarketCap. E' in fase di sviluppo un'API REST per permettere di tenere traccia delle chiamate, limitare l'utilizzo del bot da parte di alcune chat e di fornire statistiche.
 
