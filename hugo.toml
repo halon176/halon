@@ -1,7 +1,7 @@
 baseurl = "https://halon.cc/"
 title = "halon"
 theme = "hugo-coder"
-languagecode = "it"
+languageCode = "it"
 defaultcontentlanguage = "it"
 metaDataFormat = "toml"
 enableRobotsTXT = true
@@ -36,9 +36,6 @@ enableRobotsTXT = true
 
 pagination.pagerSize = 20
 
-[services]
-# [services.disqus]
-# disqusShortname = "yourdiscussshortname"
 
 [markup.highlight]
 style = "github-dark"
@@ -50,6 +47,8 @@ style = "github-dark"
   keywords = "blog,developer,personal"
   avatarurl = "profpic.jpg"
   license = '<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA-4.0</a>'
+  remark42url = "https://halon.cc/remark42"
+  domain = "halon.cc"
   #gravatar = "john.doe@example.com"
 
   faviconSVG = "favicon.ico"
