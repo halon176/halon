@@ -1,7 +1,7 @@
 baseurl = "https://halon.cc/"
 title = "halon"
 theme = "hugo-coder"
-languageCode = "it"
+locale = "it"
 defaultcontentlanguage = "it"
 metaDataFormat = "toml"
 enableRobotsTXT = true
@@ -13,7 +13,7 @@ enableRobotsTXT = true
 
 [languages]
   [languages.en]
-    languageName = "🇺🇸"
+    label = "🇺🇸"
     weight = 1
     [languages.en.params]
       author = "halon"
@@ -31,7 +31,7 @@ enableRobotsTXT = true
       url = "projects/"
     
   [languages.it]
-    languageName = "🇮🇹"
+    label = "🇮🇹"
     weight = 2
 
 pagination.pagerSize = 20
