@@ -3,6 +3,7 @@ title = "Che problemi ha Apple?"
 date = 2021-11-16 08:50:12
 images = ["/covers/applewtf.jpg"]
 categories = ["blog","tech"]
+translationKey = "2021-11-16-apple-problems"
 +++
 
 "Gli iPhone sono più semplici da usare, non riuscirei mai ad usare un android", frase che ho sentito fino alla nausea ma talmente diffusa da convincermi fosse veramente così. Qualche giorno fa sono diventato un fiero possessore di un iPhone 12 Pro, è stato un momento di giubilo destinato a durare poco, il tempo di cominciare la travagliata migrazione dal mio caro vecchio Samsung S10.

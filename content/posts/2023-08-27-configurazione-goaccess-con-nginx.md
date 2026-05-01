@@ -3,6 +3,7 @@ title = "Configurazione di GoAccess con statistiche Nginx in tempo reale"
 date = 2023-08-27 16:46:12
 images = ["/covers/goaccess.webp"]
 categories = ["tech"]
+translationKey = "2023-08-27-goaccess"
 +++
 
 Qualche giorno fa mi è arrivata la mail di Google che mi avvisava di dover migrare le mie proprità Universal Analytics a Google Analytics 4.

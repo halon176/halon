@@ -9,6 +9,7 @@ tags = ["blog"]
 categories = []
 externalLink = ""
 series = []
+translationKey = "2025-02-03-letting-go"
 +++
 
 Tempo fa lessi un bel libro, Atomic Habits di James Clear, un po' ripetitivo, ma ti aiuta a interiorizzare bene alcuni concetti. Effettivamente costruire un'abitudine è faticoso, ma c'è una cosa che nel libro non viene detta abbastanza: quanto cazzo è facile cadere nella spirale negativa.

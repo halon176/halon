@@ -3,6 +3,7 @@ title = "Way to Lucca Half Marathon"
 date = 2022-03-21 21:56:12
 images = ["/covers/lucca-half-marathon.jpg"]
 categories = ["blog","running"]
+translationKey = "2022-03-21-lucca-half"
 +++
 
 Potrebbe essere l'effetto di questa sorta di menopausa post 30 ma ormai a noi star fermi ci fa schifo. Ci volevo un qualcosa prima della maratona di Berlino di settembre, quindi eccoci qui: 8 maggio 2022 - Lucca Half Marathon.

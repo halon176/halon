@@ -13,6 +13,7 @@ params:
     ShowShareButtons: true
 
 categories: ["running"]
+translationKey: "2021-07-10-marathon-prep-2"
 ---
 Finalmente il dado è tratto, dopo un travaglio interminabile ho completato l'iscrizione, la gara si svolgerà il 19 settembre 2021 ore 5! Ritirarsi ora vorrebbe dire perdere i soldi dell'iscrizione è questo sarebbe tutt'altro che accettabile.
 

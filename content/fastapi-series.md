@@ -1,6 +1,7 @@
 ---
 title: "Serie su FastAPI"
 comments: false
+translationKey: fastapi-series
 ---
 Link alla [playlist completa su youtube](https://www.youtube.com/playlist?list=PL97NRMQKeFZovPn9TI_4SPilbbGczPhB-)
 

@@ -3,6 +3,7 @@ title = "Preparazione Maratona - Ultimo aggiornamento"
 date = 2021-09-15
 images = ["/covers/preparazione-maratona-2.jpg"]
 categories = ["running"]
+translationKey = "2021-09-15-marathon-prep-final"
 +++
 
 Alla Maratona mancano ufficialmente 3 giorni ed una manciata di ore. Ormai la preparazione è terminata e me la sto prendendo comoda per recuperare le energie per il grande giorno.

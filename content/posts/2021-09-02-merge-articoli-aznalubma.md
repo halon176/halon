@@ -13,6 +13,7 @@ params:
     ShowShareButtons: true
 
 categories: ["aznalubma"]
+translationKey: "2021-09-02-aznalubma-merge"
 ---
 Dopo averci riflettuto parecchio ho deciso di non creare una sezione apposita per i vecchi articoli di aznalubma (quei pochi che meritano di essere letti). Penso che la soluzione migliore sia di inglobare il tutto assegnando agli articoli all'effettiva data della stesura.
 

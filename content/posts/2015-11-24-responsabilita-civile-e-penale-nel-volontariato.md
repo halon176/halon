@@ -8,6 +8,7 @@ cover:
     caption: ""
     relative: false # To use relative path for cover image, used in hugo Page-bundles
 categories:  ["aznalubma"]
+translationKey: "2015-11-24-volunteer-liability"
 ---
 
 Spesso durante i corsi di formazione i partecipanti pongono delle domande del tipo: "Se massaggio male ed il paziente muore, vado in galera?". Oppure nei casi più tragici: "quindi se faccio questo cose e vedo un incidente mi tocca per forza intervenire?". Questo articolo è finalizzato a chiarire le responsabilità civili e penali di un soccorritore in servizio  e non.

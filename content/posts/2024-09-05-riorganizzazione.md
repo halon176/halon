@@ -9,6 +9,7 @@ tags = []
 categories = []
 externalLink = ""
 series = []
+translationKey = "2024-09-05-reorganization"
 +++
 
 La mia comunicazione è un casino, lo ammetto.

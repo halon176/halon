@@ -12,6 +12,7 @@ params:
 
 
 categories: ["libri"]
+translationKey: "2021-02-19-incubo-review"
 ---
 
 E' il sesto libro che leggo del medesimo autore, devo dire fino ad adesso non mi ha mai deluso. Nulla da dire sullo stile e sulla scorrevolezza: facendo delle letture serali sporadiche l'ho finito nel giro di qualche giorno, nonostante le sue 350 pagine. Noto però che forse, libro dopo libro, le idee dello scrittore siano sempre un po riciclate.

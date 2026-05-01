@@ -11,6 +11,7 @@ params:
     ShowShareButtons: true
 
 categories:  ["aznalubma"]
+translationKey: "2016-06-12-magherini"
 ---
 
 In questi giorni sui social, sopratutto dei volontari del 118, ha cominciato a circolare l'hashtag #ancheiostoconclaudia  in concomitanza alla sentenza per il processo sull'omicidio di Riccardo Magherini risalente a due anni fa. Ma in cosa consiste la vicenda e perché i volontari della CRI sono stati accusati?

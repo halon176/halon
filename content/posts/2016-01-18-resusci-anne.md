@@ -10,6 +10,7 @@ params:
     ShowShareButtons: true
 
 categories:  ["aznalubma"]
+translationKey: "2016-01-18-resusci-anne"
 
 ---
 

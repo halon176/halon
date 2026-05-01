@@ -3,6 +3,7 @@ title = "Ho generato una creatura e si chiama HCryptoPrice"
 date = 2023-04-21 12:56:12
 images = ["/covers/telegram-bot-creation-cover.jpg"]
 categories = ["tech"]
+translationKey = "2023-04-21-hcryptoprice"
 +++
 
 Ho partorito una piccola creatura, un bot di telegram in grado fare richiesta alle API di GoinGecko e di restituisce in un messaggio i dati relativi al prezzo, capitalizzazione, ATH, ATL e altre sigle.

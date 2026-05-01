@@ -3,6 +3,7 @@ title = "La mia Prima Maratona"
 date = 2021-09-20
 images = ["/covers/partenzamaratona.jpg"]
 categories = ["running","blog"]
+translationKey = "2021-09-20-first-marathon"
 +++
 
 Amo Roma.  Nonostante ci fossi stato svariate volte, quel giorno era tutto diverso, tutto il centro città era bloccato per noi. Aveva un non so ché di anomalo.

@@ -3,6 +3,7 @@ title = "La fottuta Terza Dose"
 date = 2021-11-27 14:20:12
 images = ["/covers/terzadose.jpg"]
 categories = ["blog"]
+translationKey = "2021-11-27-third-dose"
 +++
 
 ## Incipit

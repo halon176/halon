@@ -3,6 +3,7 @@ title = "GoAccess Configuration with Real-time Nginx Statistics"
 date = 2023-08-27 16:46:12
 images = ["/covers/goaccess.webp"]
 categories = ["tech"]
+translationKey = "2023-08-27-goaccess"
 +++
 
 A few days ago, I received an email from Google informing me that I needed to migrate my Universal Analytics properties to Google Analytics 4. The basic problem is simple: GA4 doesn't seem to be supported by the theme I use for my blog. However, many other considerations emerged as well.
@@ -17,7 +18,7 @@ This allows me to analyze and store access data from a log that is already gener
 
 ## How it works
 
-In particular, for our use, GoAccess starts up and creates a service that generates an html page that updates in real time thanks to the data arriving via websocket that is always raised by GoAccess. The guide focuses on the configuration of nginx and the configuration of goaccess as a service in systemd.
+For our use case specifically, GoAccess starts up and creates a service that generates an HTML page that updates in real time thanks to data arriving via a WebSocket, also spawned by GoAccess. This guide focuses on configuring Nginx and setting up GoAccess as a systemd service.
 
 ## Configuration
 
@@ -123,25 +124,25 @@ WantedBy=multi-user.target
 > **_NOTE:_**: Some guides include the `-g` option, which gives me an error and is also missing from the official documentation.
 > Additionally, there's the `--origin` option which restricts websocket access, but when I tried to set it, it didn't work for me. As a result, I've left it out.
 
-Now we enable the service:
+Now reload the service configurations:
 
 ```shell
-sudo systemctl enable goaccess
+sudo systemctl daemon-reload
 ```
 
-And we start it:
+And start the service:
 
 ```shell
 sudo systemctl start goaccess
 ```
 
 If everything goes well, enable the service to start on boot:
-    
+
 ```shell
 sudo systemctl enable goaccess
 ```
 
-For safety, check if the service is active:
+To be safe, check that the service is active:
 
 ```shell
 sudo systemctl status goaccess

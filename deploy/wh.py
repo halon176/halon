@@ -6,10 +6,13 @@ import logging
 import hmac
 import hashlib
 import sys
+import json
 
 SERVER_PORT = int(os.environ.get("BLOG_PORT", 9000))
+SERVER_HOST = os.environ.get("BLOG_HOST", "127.0.0.1")
 BLOG_PUBLIC_DIR = os.environ.get("BLOG_PUBLIC_DIR")
 GITHUB_BLOG_SECRET = os.environ.get("GITHUB_BLOG_SECRET")
+DEPLOY_BRANCH = os.environ.get("BLOG_DEPLOY_BRANCH", "refs/heads/main")
 
 logging.basicConfig(
     level=logging.INFO,
@@ -42,6 +45,14 @@ def run_cmd(cmd, cwd=None):
 class Handler(BaseHTTPRequestHandler):
     def do_POST(self):
         try:
+            event = self.headers.get("X-GitHub-Event")
+            if event != "push":
+                logger.info("Ignoring non-push event: %s", event)
+                self.send_response(200)
+                self.end_headers()
+                self.wfile.write(b"Ignored\n")
+                return
+
             content_length = int(self.headers.get('Content-Length', 0))
             payload = self.rfile.read(content_length)
 
@@ -62,9 +73,27 @@ class Handler(BaseHTTPRequestHandler):
                 self.wfile.write(b"Invalid signature\n")
                 return
 
-            logger.info("Valid webhook received, starting deploy")
-            run_cmd(["git", "checkout", "main"], cwd=REPO_DIR)
-            run_cmd(["git", "pull", "--rebase"], cwd=REPO_DIR)
+            try:
+                data = json.loads(payload)
+                ref = data.get("ref", "")
+            except json.JSONDecodeError:
+                logger.warning("Invalid JSON payload")
+                self.send_response(400)
+                self.end_headers()
+                self.wfile.write(b"Invalid JSON\n")
+                return
+
+            if ref != DEPLOY_BRANCH:
+                logger.info("Ignoring push to %s (only %s is deployed)", ref, DEPLOY_BRANCH)
+                self.send_response(200)
+                self.end_headers()
+                self.wfile.write(b"Branch not deployed\n")
+                return
+
+            logger.info("Valid push webhook on %s, starting deploy", ref)
+            run_cmd(["git", "fetch", "origin", DEPLOY_BRANCH.split("/")[-1]], cwd=REPO_DIR)
+            run_cmd(["git", "checkout", "--force", DEPLOY_BRANCH.split("/")[-1]], cwd=REPO_DIR)
+            run_cmd(["git", "reset", "--hard", f"origin/{DEPLOY_BRANCH.split('/')[-1]}"], cwd=REPO_DIR)
             run_cmd(["hugo", "-d", BLOG_PUBLIC_DIR], cwd=REPO_DIR)
 
             self.send_response(200)
@@ -80,10 +109,11 @@ class Handler(BaseHTTPRequestHandler):
 
 if __name__ == "__main__":
     logger.info("Using BLOG_PUBLIC_DIR: %s", BLOG_PUBLIC_DIR)
-    logger.info("Starting webhook server on port %d", SERVER_PORT)
+    logger.info("Deploying branch: %s", DEPLOY_BRANCH)
+    logger.info("Starting webhook server on %s:%d", SERVER_HOST, SERVER_PORT)
 
     try:
-        HTTPServer(("0.0.0.0", SERVER_PORT), Handler).serve_forever()
+        HTTPServer((SERVER_HOST, SERVER_PORT), Handler).serve_forever()
     except KeyboardInterrupt:
         logger.info("Shutting down server")
     except Exception as e:

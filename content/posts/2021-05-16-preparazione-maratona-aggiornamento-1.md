@@ -13,6 +13,7 @@ params:
     ShowShareButtons: true
 
 categories: ["running"]
+translationKey: "2021-05-16-marathon-prep-1"
 ---
 
 ## Aggiornamento sui progressi

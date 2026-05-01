@@ -3,6 +3,7 @@ title = "Il fondo del mio abisso"
 date = 2023-01-15 16:56:12
 images = ["/covers/porto.jpg"]
 categories = ["blog"]
+translationKey = "2023-01-15-abyss"
 +++
 
 E' un po che non scrivo, il periodo è parecchio turbolento, sia nel lavoro che nella vita privata. C'è pero un chiodo fisso che tiene la mia mente bloccata da diverso tempo e volevo buttarlo qui, sia per rifletterci meglio che per avere qualche opinione in merito: il sesso come rovina di ogni tipo di interesse.

@@ -8,6 +8,7 @@ cover:
     caption: ""
     relative: false # To use relative path for cover image, used in hugo Page-bundles
 categories:  ["aznalubma"]
+translationKey: "2015-11-29-ambulance-driver"
 ---
 
 

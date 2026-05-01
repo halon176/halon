@@ -11,6 +11,7 @@ params:
     ShowShareButtons: true
 
 categories: ["blog"]
+translationKey: "2021-01-31-death-of-blogs"
 ---
 
 ### Questione Aznalubma

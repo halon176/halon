@@ -11,6 +11,7 @@ params:
 
 
 categories: ["tutorial","tech"]
+translationKey: "2021-09-10-disqus-hugo"
 ---
 
 ## Dio perdonami perché ho peccato.

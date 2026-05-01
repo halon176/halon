@@ -3,6 +3,7 @@ title = "Gli NFT sono una cagata pazzesca"
 date = 2022-05-06 16:56:12
 images = ["/covers/nft-cagata-pazzesca.jpg"]
 categories = ["crypto"]
+translationKey = "2022-05-06-nft-bullshit"
 +++
 
 NFT è il nuovo bitcoin, la nuova blockchain, il nuovo termine abusato da chiunque che riesce imbellettare l'idea più stramba. Fino a qualche anno fa comprare skin in un videogioco era considerato un comportamento folle ma oggi basta dire che vendi NFT e tutto assume subito una parvenza futuristica, un po' come una startup che gestisce la biglietteria di un cinema in blockchain.

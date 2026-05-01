@@ -3,6 +3,7 @@ title = "Croce Rossa Italiana e il problema dell'esclusività"
 date = 2021-11-01
 images = ["/covers/cri_vincolo.jpg"]
 categories = ["aznalubma"]
+translationKey = "2021-11-01-cri-exclusivity"
 +++
 
 Nel 2021 è sano che un ente importante come la Croce Rossa imponga ai propri volontari ad una regola vetusta come il vincolo di esclusività?

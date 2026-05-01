@@ -3,6 +3,7 @@ title = "Ritorno ad Amsterdam"
 date = 2017-01-06 00:42:06
 images = ["/covers/ritorno-ad-amsterdam.jpg"]
 categories =  ["blog"]
+translationKey = "2017-01-06-amsterdam"
 +++
 
 
