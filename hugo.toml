@@ -1,9 +1,7 @@
 baseurl = "https://halon.cc/"
 title = "halon"
 theme = "hugo-coder"
-locale = "it"
-defaultcontentlanguage = "it"
-metaDataFormat = "toml"
+defaultContentLanguage = "it"
 enableRobotsTXT = true
 
 [minify]
@@ -13,6 +11,7 @@ enableRobotsTXT = true
 
 [languages]
   [languages.en]
+    locale = "en"
     label = "🇺🇸"
     weight = 1
     [languages.en.params]
@@ -31,6 +30,7 @@ enableRobotsTXT = true
       url = "projects/"
     
   [languages.it]
+    locale = "it"
     label = "🇮🇹"
     weight = 2
 
@@ -60,7 +60,7 @@ style = "github-dark"
   enableTwemoji = true
 
   colorScheme = "auto"
-  hidecolorschemetoggle = false
+  hideColorSchemeToggle = false
 
   # customCSS = ["css/custom.css"]
   # customSCSS = ["scss/custom.scss"]
